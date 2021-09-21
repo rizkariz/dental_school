@@ -1,2 +1,3 @@
 # dental_school
-Mini repository filled with stuff that helps me learn stuff in dental school
+"Some stuff that I made to integrate what I learnt on dental school with python/n"
+"Nothing grandiose, just stuff that might helps me with my exam xD"
