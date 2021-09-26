@@ -1,4 +1,4 @@
-# Guessing what lesion is that ayyyyy
+# Guessing what lesion is that
 
 q_1 = input("Is the lesion raised above the skin? y/n:")
 if q_1 == "y":
